@@ -52,6 +52,7 @@ db.burgers.deleteOne({ protein: 'veggie' })
 //true
 db.burgers.drop()
 // drop the database
+db.dropDatabase()
 //Expected Output
 // {
 //   "dropped": "burgers",
