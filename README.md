@@ -36,7 +36,7 @@ db.burger.find({meat:{$ne:'beef'}})
 ```
 
 ## Submission Guidelines
-- Pull Request must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-2-22/template_pull_request)
+- Pull Request must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-6-21/template_pull_request)
 
 ## Resources
 
